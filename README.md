@@ -39,8 +39,6 @@
 | **Visualization** | Power BI, Tableau |
 | **Collaboration** | GitHub, Notion, Trello |
 
-> **💡 Pro Tip:** Consider adding **[Skill Badges](https://dev.to/envoy_/150-github-profile-readme-ideas-b80#skills-icons-badges)** (like Shield.io) here for a powerful visual display of your stack!
-
 ---
 
 ## 🌟 Soft Skills
