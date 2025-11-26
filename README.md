@@ -1,5 +1,4 @@
-# OYINKANSOLA-OJUGBELE
-...
+
 # 👋 Hi, I’m Oyin
 
 > I’m a **detail-driven Data Analyst** passionate about transforming raw information into clear insights that support decision-making, business growth, and operational improvement. I love solving problems, simplifying complexity, and creating dashboards that tell compelling stories.
